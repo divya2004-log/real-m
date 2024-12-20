@@ -1,1 +1,1 @@
-# real-m
+The "Guess the Number" program in C++ generates a random number and allows the user to guess it. The program provides feedback, indicating whether the guess is too high or too low, until the correct number is guessed. It demonstrates conditional statements, loops, and random number generation in C++.# real-m
